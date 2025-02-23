@@ -42,9 +42,10 @@
 
 ###
 
+
 <div align="center">
   <h2>🐍 GitHub Contribution Snake 🐍</h2>
-  <p>Men qilgan commitlar tarixini ilon harakatlanib "yeb" ketmoqda! 😄</p>
+  <p>Watch the snake eat up my contributions! 😄</p>
 
   <picture>
     <source
@@ -61,6 +62,6 @@
     />
   </picture>
 
-  <p>🔥 Profilimdagi commit harakatini kuzating! 🔥</p>
+  <p>🔥 Keep an eye on my commit activity! 🔥</p>
 </div>
 
